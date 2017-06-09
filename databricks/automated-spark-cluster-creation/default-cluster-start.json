@@ -1,0 +1,5 @@
+{
+   "cluster_name": "default-cluster",
+   "spark_version": "1.6.x-ubuntu15.10",
+   "num_workers": 1
+ }

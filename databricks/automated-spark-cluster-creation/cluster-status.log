@@ -1,0 +1,9 @@
+Sat Aug 6 17:57:36 MYT 2016  | start-cluster |  {"cluster_id":"0806-095733-pad11"}
+Sat Aug 6 18:02:00 MYT 2016 | stop-cluster |  {} {"cluster_id":"0806-095733-pad11"}
+Sun Aug 7 14:25:25 MYT 2016  | start-cluster |  {"cluster_id":"0807-062520-feel12"}
+Sun Aug 7 15:22:43 MYT 2016 | stop-cluster |  {"cluster_id":"0807-062520-feel12"}
+Sun Aug 7 15:24:44 MYT 2016  | start-cluster |  {"cluster_id":"0807-072438-teen13"}
+Sun Aug 7 15:42:56 MYT 2016 | stop-cluster |  {"cluster_id":"0807-072438-teen13"}
+Sun Aug 7 16:08:32 MYT 2016  | start-cluster |  {"cluster_id":"0807-080827-ere14"}
+Sun Aug 7 16:42:37 MYT 2016 | stop-cluster |  {"cluster_id":"0807-080827-ere14"}
+Sun Aug 7 21:00:37 MYT 2016  | start-cluster |  {"cluster_id":"0807-130031-makes15"}
